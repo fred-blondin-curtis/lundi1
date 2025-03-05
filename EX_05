@@ -1,0 +1,12 @@
+var firstname ='john'
+displayInCard('firstname')
+var lastname='Doe'
+displayInCard('lastname')
+var cardCode = “1111 2222 3333 4444”
+displayInCard('cardCode')
+var expiryDateMonth = 21
+displayInCard('expiryDateMonth')
+var expiryDateYear=  2042
+displayInCard('expiryDateYear')
+var computedBankInfo = “John,Doe,1111 2222 3333 4444,21/2042”
+displayInCard('computedBankInfo')
