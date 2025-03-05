@@ -1,0 +1,6 @@
+var password
+if(password='forty two'){
+dislayThisText('success')
+}else{
+displayThisText('wrong password')
+}
