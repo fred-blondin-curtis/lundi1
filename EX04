@@ -1,0 +1,12 @@
+console.log(typeof 42)
+//Expected outcome:number/integer
+console.log(typeof right)
+//expected outcome:string
+console.log(typeof @ )
+//expected outcome;symbol
+console.log(typeof )
+//expected outcome :undefined
+console.log(typeof true)
+//expected outcome:boolean
+console.log(typeof 141256372763873848374)
+//expected outcome:bigint
