@@ -1,0 +1,2 @@
+var greetings=hello world
+displayThisText('greetings')
