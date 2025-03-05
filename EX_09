@@ -1,0 +1,11 @@
+the variable value is '42'
+its type is 'integer'
+the variable value is 'forty two'
+its value is 'string'
+the variable value is 'true'
+its type is 'boolean'
+the variable value is'42.000000'
+its type is 'float'
+if(variable=42){
+displayThisText('it is the meaning of life')
+}
