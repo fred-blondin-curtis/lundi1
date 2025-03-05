@@ -1,0 +1,10 @@
+var bananacount
+if(bananacount=0){
+displayThisText('ohno there is no banana')
+}
+if(bananacount>=0){
+displayThisText('Yummy')
+}
+if(bananacount<=0){
+displayThisText(' I owe you bananas?')
+}
